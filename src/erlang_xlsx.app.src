@@ -1,5 +1,5 @@
 %% -*- mode: erlang -*-
-{application, xlsx,
+{application, erlang_xlsx,
  [{description, "xlsx"},
   {vsn, "1"},
   {modules,
